@@ -174,6 +174,7 @@ header .fa-chevron-down {
 header .btn-outline-light {
   color: #f7e7ca;
   border: 1px solid #f7e7ca;
+  background-color: transparent;
 }
 header .btn-outline-light:hover {
   color: #f3bc55;
