@@ -75,12 +75,6 @@ body {
   background-color: #f7e7ca;
 }
 
-input[type=text], input[type=button] {
-    -webkit-appearance: none;
-    -webkit-border-radius: 0;
-    border-radius: 2px;
-    }
-
 h2 {
   text-align: center;
   margin-bottom: 10px;
@@ -179,11 +173,13 @@ header .fa-chevron-down {
   font-size: 30px;
 }
 header .btn-outline-light {
+  -webkit-appearance: none;
   color: #f7e7ca;
   border: 1px solid #f7e7ca;
   background-color: #333;
 }
 header .btn-outline-light:hover {
+  -webkit-appearance: none;
   color: #f3bc55;
   border: 1px solid #f3bc55;
   background-color: transparent;
