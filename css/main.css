@@ -66,6 +66,7 @@
 
 html {
   scroll-padding-top: 66px;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -174,7 +175,7 @@ header .fa-chevron-down {
 header .btn-outline-light {
   color: #f7e7ca;
   border: 1px solid #f7e7ca;
-  background-color: transparent;
+  background-color: #333;
 }
 header .btn-outline-light:hover {
   color: #f3bc55;
