@@ -258,7 +258,7 @@ header .btn-outline-light:hover {
   position: relative;
   background-image: url("../img/tools-sml.jpg");
   background-attachment: fixed;
-  height: 100px;
+  height: 200px;
 }
 .tools .tools-shadow {
   position: absolute;
