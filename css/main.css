@@ -176,7 +176,7 @@ header .btn-outline-light {
   -webkit-appearance: none;
   color: #f7e7ca;
   border: 1px solid #f7e7ca;
-  background-color: #333;
+  background-color: transparent;
 }
 header .btn-outline-light:hover {
   -webkit-appearance: none;
