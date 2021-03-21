@@ -229,6 +229,10 @@ header .btn-outline-light:hover {
 .projects h2 {
   color: #f7e7ca;
 }
+.projects .border-2 {
+  border: 2px solid #f7e7ca;
+}
+
 .projects .carousel-item {
   position: relative;
   height: 600px;
